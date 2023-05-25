@@ -1,0 +1,3 @@
+﻿  Project.cpp
+C:\Users\mk979\Desktop\final project\Project with test\Project\Project.cpp(241): warning C4715: 'avilableservices': not all control paths return a value
+  Project.vcxproj -> C:\Users\mk979\Desktop\final project\Project with test\x64\Debug\Project.exe
